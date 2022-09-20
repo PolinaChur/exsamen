@@ -11,7 +11,7 @@ namespace exzamen
         static void Main(string[] args)
         {
             int a; // Общее количество работ по проекту
-            int[] b = new int[20]; // Вектор-пара, представляющая работу
+            int[] b = new int[20]; // Вектор-пара, представляющая работу.
             int[] c = new int[20];
             int[] dbc = new int[20];// продолжительность 
             int[] s1 = new int[20]; // первый срок начала 
