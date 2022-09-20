@@ -1,0 +1,8 @@
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\bin\Debug\exsamen.exe.config
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\bin\Debug\exsamen.exe
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\bin\Debug\exsamen.pdb
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\obj\Debug\exsamen.csproj.AssemblyReference.cache
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\obj\Debug\exsamen.csproj.SuggestedBindingRedirects.cache
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\obj\Debug\exsamen.csproj.CoreCompileInputs.cache
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\obj\Debug\exsamen.exe
+C:\Users\чуриновапд\source\repos\exsamen\exsamen\obj\Debug\exsamen.pdb
